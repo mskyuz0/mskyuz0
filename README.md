@@ -17,11 +17,10 @@
 - Loves cool challenges.
 
 #### 🌱 I'm learning
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 
 #### 🤔 My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MS-KyuZ0&commits_year=2025)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS-KyuZ0)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📫 Connect with me
 ![https://www.instagram.com/muhmmd.sadam/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
